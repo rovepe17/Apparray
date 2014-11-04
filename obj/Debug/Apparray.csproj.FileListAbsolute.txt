@@ -1,0 +1,5 @@
+c:\users\rociovera\documents\visual studio 2012\Projects\Apparray\Apparray\bin\Debug\Apparray.exe.config
+c:\users\rociovera\documents\visual studio 2012\Projects\Apparray\Apparray\bin\Debug\Apparray.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Apparray\Apparray\bin\Debug\Apparray.pdb
+c:\users\rociovera\documents\visual studio 2012\Projects\Apparray\Apparray\obj\Debug\Apparray.exe
+c:\users\rociovera\documents\visual studio 2012\Projects\Apparray\Apparray\obj\Debug\Apparray.pdb
